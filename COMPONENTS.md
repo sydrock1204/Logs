@@ -22,6 +22,8 @@
 
 11. Farnell
 
+12. handsontec(https://handsontec.com/)
+
 ## Electronic Components Distributors in China
 
 1. LCSC Electronics:
@@ -40,7 +42,7 @@
 
 8. Huaqiang Electronics World:
 
-9. Alibaba:
+9. Alibaba:(AliExpress)
 
 10. IC Source:
 
@@ -59,6 +61,8 @@
 2. Jetbot.org
 
 3. waveshare.com
+
+4. allaboutcircuits.com
 
 ## robot retailer shop
 
