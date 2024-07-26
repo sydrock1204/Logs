@@ -1,0 +1,24 @@
+### China Companies We should connect.
+
+- Shenzhen aiconnecting Electronics Co., Ltd
+- Shenzhen robotlinking Technology Co., Ltd
+- Shenzhen Hiwonder Technology Co., Ltd
+- Acebott Stem Education Tech Co., Ltd.
+- Shenzhen Keyes DIY Robot Co., Ltd.
+- Shenzhen Feite Model Co., Ltd.
+- Guangzhou Zhongchuang Youpin Technology Co., Ltd
+- Shenzhen Lixiang Electronic Components Co., Ltd.
+- Shenzhen Chuangxiang Artificial Intelligence Technology Co., Ltd.
+- Shenzhen EPAMIC Technology Co., Ltd
+- Junxing HK Co., Limited
+- Shenzhen Tejiate Technology Co., Ltd
+- Arrow Chip Technology Co., Limited
+- Shanghai Belite Technology Co., Ltd.
+- Shenzhen Sculpfun Technology Co., Ltd.
+  - Laser Cutting & Engraving Machine
+- Shenzhen Sinis Technologies Co., Ltd.
+  - Laser Cutting & Engraving Machine
+- Shenzhen Soongon Technology Co., Ltd.
+  - 3D printer & laser cutting & DIY Kit
+- Shenzhen Launch Tech Co., Ltd.
+  - Vehicle Diagnostic Equipment
